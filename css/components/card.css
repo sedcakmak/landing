@@ -1,0 +1,11 @@
+.card {
+  border: 1px solid rgb(230,230,230);
+  width: 200px;
+  padding: 20px;
+  text-align: center;
+}
+.cards  {
+  display:flex;
+  justify-content: space-between;
+    margin-bottom: 30px;
+}

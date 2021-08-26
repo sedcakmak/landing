@@ -1,0 +1,11 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+ }
+.container h1 {
+  color:#FFFFFF;
+}
+
+.container h2 {
+  text-align: center;
+}
